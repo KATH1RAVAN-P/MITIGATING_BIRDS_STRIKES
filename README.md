@@ -16,21 +16,40 @@ Bird strikes pose a significant risk to aircraft safety, causing financial losse
 
 🚨 The Problem:
 
-🛫 Frequent Bird Strikes at Low Altitudes – Over 70% of strikes occur below 1000 ft, making takeoff and landing the riskiest phases.🦜 Unknown Bird Species in Majority of Cases – Many bird strikes involve unidentified birds, making targeted mitigation difficult.✈️ Certain Aircraft Types More Prone to Strikes – BLC-type aircraft are impacted the most, necessitating aircraft-specific preventive measures.📅 Seasonal Variation – June has the highest strike occurrences, indicating the need for peak-season interventions.
+🛫 Frequent Bird Strikes at Low Altitudes – Over 70% of strikes occur below 1000 ft, making takeoff and landing the riskiest phases.
+🦜 Unknown Bird Species in Majority of Cases – Many bird strikes involve unidentified birds, making targeted mitigation difficult.
+✈️ Certain Aircraft Types More Prone to Strikes – BLC-type aircraft are impacted the most, necessitating aircraft-specific preventive measures.
+📅 Seasonal Variation – June has the highest strike occurrences, indicating the need for peak-season interventions.
 
 🔍 Key Insights:
 
-✅ Altitude < 1000 ft sees the highest strikes (70%+ cases)✅ Small and medium-sized unknown birds are involved in most strikes✅ BLC-type aircraft experience the highest number of incidents✅ Clear weather does not reduce strike occurrences significantly✅ June has the highest bird strikes, indicating seasonal risks
+✅ Altitude < 1000 ft sees the highest strikes (70%+ cases)
+✅ Small and medium-sized unknown birds are involved in most strikes
+✅ BLC-type aircraft experience the highest number of incidents
+✅ Clear weather does not reduce strike occurrences significantly
+✅ June has the highest bird strikes, indicating seasonal risks
 
 🛠️ Recommendations for Risk Mitigation:
 
-🚀 Deploy Radar-Based Bird Monitoring – Real-time bird detection and tracking systems should be implemented to monitor bird activity near airports.🎯 AI-Based Bird Recognition – Machine learning models can help in species identification for targeted deterrent strategies.✈️ Flight Path Optimization – Modify flight paths and altitudes in high-risk areas during peak bird movement hours.🔊 Use Acoustic & Visual Deterrents – Install bio-acoustic deterrents and flashing lights to keep birds away from runways.📅 Seasonal Bird Control Strategies – Special mitigation efforts should be ramped up in June to counter peak strike risks.
-
-📸 Sample Bird Strike Image:
-
-
+🚀 Deploy Radar-Based Bird Monitoring – Real-time bird detection and tracking systems should be implemented to monitor bird activity near airports.
+🎯 AI-Based Bird Recognition – Machine learning models can help in species identification for targeted deterrent strategies.
+✈️ Flight Path Optimization – Modify flight paths and altitudes in high-risk areas during peak bird movement hours.
+🔊 Use Acoustic & Visual Deterrents – Install bio-acoustic deterrents and flashing lights to keep birds away from runways.
+📅 Seasonal Bird Control Strategies – Special mitigation efforts should be ramped up in June to counter peak strike risks.
 
 📊 Dashboard Screenshots:
+
+![Alt Text](https://github.com/KATH1RAVAN-P/MITIGATING_BIRDS_STRIKES/blob/a853f2f6d550995b29c0b97fca12d7505ed73d1b/Injury%20prevention%20and%20wildlife%20protection.PNG
+)
+![Alt Text](https://github.com/KATH1RAVAN-P/MITIGATING_BIRDS_STRIKES/blob/a853f2f6d550995b29c0b97fca12d7505ed73d1b/Regulatory%20compilance%20dashboard.PNG
+)
+![Alt Text](https://github.com/KATH1RAVAN-P/MITIGATING_BIRDS_STRIKES/blob/a853f2f6d550995b29c0b97fca12d7505ed73d1b/pilot%20communication%20dashboard.PNG)
+
+
+
+
+
+
 
 
 
@@ -40,7 +59,9 @@ The dataset used in this analysis is sourced from aviation safety reports, inclu
 
 💡 Future Enhancements:
 
-🚀 Real-Time Bird Strike Prediction Model – Develop a machine learning model that predicts potential bird strikes based on live data.🦅 Automated Bird Species Classification – Enhance species identification using deep learning image classification models.📡 Airport-Specific Risk Analysis – Tailor bird hazard mitigation plans for different airport locations based on local bird activity data.
+🚀 Real-Time Bird Strike Prediction Model – Develop a machine learning model that predicts potential bird strikes based on live data.
+🦅 Automated Bird Species Classification – Enhance species identification using deep learning image classification models.
+📡 Airport-Specific Risk Analysis – Tailor bird hazard mitigation plans for different airport locations based on local bird activity data.
 
 📢 Let's Collaborate!
 
